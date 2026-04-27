@@ -30,7 +30,7 @@ Decomposes audio using wavelet transform and embeds data in the frequency domain
 
 ---
 
-## Run LSB Pipeline | Run DWT-SVD Pipeline
+## Run LSB Pipeline |Run DWT-SVD Pipeline
 
 ```bash
 python3 src/prepare_image.py
