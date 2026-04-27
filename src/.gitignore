@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# MacOS
+.DS_Store
+
+# Output files (optional)
+data/output/*.wav
+data/output/*.png
